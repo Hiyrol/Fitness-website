@@ -1,8 +1,8 @@
 import Header from '../../components/Header'
 import Mainheader2 from '../../images/Mainheader2.webp'
-import Mainheader11 from '../../images/mainheader11.avif'
-import Mainheader9 from '../../images/mainheader9.avif'
-import Mainheader10 from '../../images/mainheader10.avif'
+import Mainheader11 from '../../images/mainheader11.jpg'
+import Mainheader9 from '../../images/mainheader9.jpg'
+import Mainheader10 from '../../images/mainheader10.jpg'
 import './about.css'
 
 

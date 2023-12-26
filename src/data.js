@@ -351,11 +351,11 @@ export const plans = [
 ]
 
 
-const Trainer1 =require('./images/mainheader8.avif')
+const Trainer1 =require('./images/mainheader8.jpg')
 const Trainer2 =require('./images/Trainer2.jpeg')
 const Trainer3 =require('./images/Trainer3.jpeg')
 const Trainer4 =require('./images/Trainer4.jpeg')
-const Trainer5 =require('./images/mainheader13.avif')
+const Trainer5 =require('./images/mainheader13.jpg')
 const Trainer6 =require('./images/Trainer6.webp')
 
 
